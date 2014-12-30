@@ -1,4 +1,4 @@
-# ![logo](https://avatars0.githubusercontent.com/u/4233855?v=3&s=150) BugTracker 
+# ![logo](https://avatars0.githubusercontent.com/u/4233855?v=3&s=75) BUGTRACKER
 
 STEEL WOW - Firelands 4.3.4
 ==========
